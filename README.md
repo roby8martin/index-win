@@ -1,5 +1,5 @@
 # Index explorer for Windows 🪟
-
+<img src="/img/index-win.png">
 <a href="https://github.com/roby8martin/index-win/releases"><img src="https://img.shields.io/github/v/release/roby8martin/index-win.svg?style=flat-square"></a>
 
 ## ⚙️ Funzioni
