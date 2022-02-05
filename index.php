@@ -128,7 +128,9 @@
               <thead>
                 <tr>
                   <th scope="col">Nome Cartella</th>
+                  <th scope="col">Apri in una nuova scheda</th>
                   <th scope="col">Apri</th>
+                  
                 </tr>
               </thead>
               <tbody>';
@@ -136,6 +138,7 @@
                   echo' 
                     <tr>
                       <th><a href="/'.$cerca.'">'.$cerca.'</a></th>
+                      <td><a target="_blank" href="/'.$cerca.'" class="btn btn-dark btn-sm"><i class="fas fa-external-link-alt"></i></a></td>
                       <td><a href="/'.$cerca.'" class="btn btn-primary btn-sm"><i class="fas fa-external-link-alt"></i></a></td>
                     </tr>
                   ';
