@@ -121,6 +121,7 @@
         <a href="/phpmyadmin" target="_blank" class="btn btn-warning text-dark"><b>PhpMyAdmin</b> <i class="fas fa-external-link-alt"></i></a> 
         <a href="info/index.php" target="_blank" class="btn btn-primary"><b><i class="fab fa-php"></i> Info</b> <i class="fas fa-external-link-alt"></i></a> 
         <a href="index.php" class="btn btn-success"><b>Ricarica pagina</b> <i class="fas fa-sync fa-spin"></i></a>
+        <a href="https://github.com/roby8martin?tab=repositories" target="_blank" class="btn btn-light"><b>GitHub Roby8Martin</b> <i class="fab fa-github"></i></a>
         <?php 
           exec('dir .. /AD /B', $lista);
           echo' 
