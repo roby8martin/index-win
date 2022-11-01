@@ -1,6 +1,6 @@
 # Index explorer for Windows 🪟
-
-<a href="https://github.com/roby8martin/index-win/releases"><img src="https://img.shields.io/github/release/roby8martin/index-win?style=flat-square"></a>
+<img src="/img/index-win.png">
+<a href="https://github.com/roby8martin/index-win/releases"><img src="https://img.shields.io/github/v/release/roby8martin/index-win.svg?style=flat-square"></a>
 
 ## ⚙️ Funzioni
 Questo repository se clonato sulla cartella del vostro ambente di sviluppo su **Windows** (Esempio dentro la cartella **htdocs** di [XAMPP](https://www.apachefriends.org/it/index.html)) permette di installare un interfaccia web per visualizzare le cartelle dei vostri siti web ma anche:
