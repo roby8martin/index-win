@@ -1,5 +1,5 @@
 <?php
-  echo '<a href="/index">Torna indietro ⬅️</a>';
+  echo '<a href="/index.php">Torna indietro ⬅️</a>';
   phpinfo();
-  echo '<a href="/index">Torna indietro ⬅️</a>';
+  echo '<a href="/index.php">Torna indietro ⬅️</a>';
 ?>
